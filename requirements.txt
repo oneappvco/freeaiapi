@@ -1,2 +1,7 @@
 Flask
-Gunicorn
+Flask[async]
+aioflask
+g4f
+requests
+asyncio
+edge_tts
