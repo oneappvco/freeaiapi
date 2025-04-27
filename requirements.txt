@@ -6,3 +6,5 @@ g4f
 requests
 asyncio
 edge_tts
+google-generativeai
+pytz
